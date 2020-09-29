@@ -1,0 +1,7 @@
+{
+  "name": "weight-tracker-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
